@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <img height="70px" src="http://www.jwplayer.com/wp-content/uploads/JWP-GitHub-Banner-1.png" alt="JW Player Logo" title="JW Player Logo"/>
 
 > Plays everywhere, every time.
@@ -130,3 +131,6 @@ If you have a library which you believe is good enough to meet the needs of othe
 
 The use of this library is governed by a [Creative Commons license](http://creativecommons.org/licenses/by-nc-sa/3.0/). You can use, modify, copy, and distribute this edition as long as it’s for non-commercial use, you provide attribution, and share under a similar license.
 http://www.jwplayer.com/license/
+=======
+# jwplayer
+>>>>>>> f13c05d74257f7689a6c57d7dc235ca11dc3e151
